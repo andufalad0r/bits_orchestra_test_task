@@ -1,0 +1,150 @@
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.csproj.AssemblyReference.cache
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.AssemblyInfoInputs.cache
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.AssemblyInfo.cs
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.csproj.CoreCompileInputs.cache
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\appsettings.json
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.exe
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.deps.json
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.runtimeconfig.json
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.pdb
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets\msbuild.bits_orchestra_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.bits_orchestra_webapi.props
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.bits_orchestra_webapi.props
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.bits_orchestra_webapi.props
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\scopedcss\bundle\bits_orchestra_webapi.styles.css
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.csproj.CopyComplete
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\refint\bits_orchestra_webapi.dll
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.pdb
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.genruntimeconfig.cache
+C:\Users\nazar\OneDrive\Рабочий стол\bits_orchestra_test\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\ref\bits_orchestra_webapi.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\appsettings.Development.json
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\appsettings.json
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.exe
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.deps.json
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.runtimeconfig.json
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\bits_orchestra_webapi.pdb
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Azure.Core.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Azure.Identity.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Humanizer.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.CodeDom.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.csproj.AssemblyReference.cache
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.AssemblyInfoInputs.cache
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.AssemblyInfo.cs
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.csproj.CoreCompileInputs.cache
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets\msbuild.bits_orchestra_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.bits_orchestra_webapi.props
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.bits_orchestra_webapi.props
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.bits_orchestra_webapi.props
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets.build.json
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\staticwebassets.development.json
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\scopedcss\bundle\bits_orchestra_webapi.styles.css
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.csproj.CopyComplete
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\refint\bits_orchestra_webapi.dll
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.pdb
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\bits_orchestra_webapi.genruntimeconfig.cache
+D:\boTest\aspnetcore_webapi\bits_orchestra_webapi\bits_orchestra_webapi\obj\Debug\net7.0\ref\bits_orchestra_webapi.dll

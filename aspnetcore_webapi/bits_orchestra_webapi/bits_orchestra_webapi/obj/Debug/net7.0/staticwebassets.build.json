@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R+th7R2XRrdeu5va7vaHaLvBLfjtRWN4agOgcT2suXU=",
+  "Source": "bits_orchestra_webapi",
+  "BasePath": "_content/bits_orchestra_webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

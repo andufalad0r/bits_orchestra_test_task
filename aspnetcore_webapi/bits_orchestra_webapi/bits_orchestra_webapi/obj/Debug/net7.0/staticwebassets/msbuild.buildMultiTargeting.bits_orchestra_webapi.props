@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bits_orchestra_webapi.props" />
+</Project>

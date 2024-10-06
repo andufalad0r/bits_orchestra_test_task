@@ -1,0 +1,6 @@
+@bits_orchestra_webapi_HostAddress = http://localhost:5093
+
+GET {{bits_orchestra_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
